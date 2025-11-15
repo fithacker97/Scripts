@@ -19,3 +19,4 @@ I’ll keep updating this repo with new scripts as I build them. 🚀
    ```bash
    git clone https://github.com/yourusername/scripts.git
    cd scripts
+## WEEKLY UPDATES
