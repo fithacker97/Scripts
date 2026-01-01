@@ -20,4 +20,4 @@ I’ll keep updating this repo with new scripts as I build them. 🚀
    git clone https://github.com/yourusername/scripts.git
    cd scripts
 ## WEEKLY UPDATES 
-New usefull script everyday !!
+New usefull script every sunday !!
